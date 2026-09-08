@@ -1,0 +1,2 @@
+# GitFlowBranchS
+Branching strategy
